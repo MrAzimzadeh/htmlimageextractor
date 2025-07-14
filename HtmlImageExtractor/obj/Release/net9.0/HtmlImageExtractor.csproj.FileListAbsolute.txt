@@ -10,3 +10,4 @@ C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Release\net9.0\HtmlIma
 C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Release\net9.0\refint\HtmlImageExtractor.dll
 C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Release\net9.0\HtmlImageExtractor.pdb
 C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Release\net9.0\ref\HtmlImageExtractor.dll
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Release\net9.0\HtmlImageExtractor.sourcelink.json
