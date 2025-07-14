@@ -8,7 +8,7 @@
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <description>A powerful C# library that automatically extracts base64-encoded images from HTML content and converts them to file references. Perfect for content management systems, email processors, and web applications that need to handle embedded images efficiently.</description>
     <tags>html image base64 extractor converter cms email web embedded-images content-processing</tags>
-    <repository type="git" url="https://github.com/MrAzimzada/htmlimageextractor" />
+    <repository type="git" url="https://github.com/MrAzimzada/htmlimageextractor" commit="9b0d4bb57fbe2cede21eb08aca56dc8655dc7877" />
     <dependencies>
       <group targetFramework="net9.0">
         <dependency id="HtmlAgilityPack" version="1.11.54" exclude="Build,Analyzers" />
