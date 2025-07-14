@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>HtmlImageExtractor</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Mahammad Azimzada</Authors>
+    <Description>A powerful C# library that automatically extracts base64-encoded images from HTML content and converts them to file references. Perfect for content management systems, email processors, and web applications that need to handle embedded images efficiently.</Description>
+    <PackageTags>html;image;base64;extractor;converter;cms;email;web;embedded-images;content-processing</PackageTags>
+    <RepositoryUrl>https://github.com/MrAzimzada/htmlimageextractor</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.54" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.5" />
+  </ItemGroup>
+
+</Project>

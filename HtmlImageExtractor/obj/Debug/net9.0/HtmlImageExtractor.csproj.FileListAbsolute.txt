@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\bin\Debug\net9.0\HtmlImageExtractor.deps.json
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\bin\Debug\net9.0\HtmlImageExtractor.dll
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\bin\Debug\net9.0\HtmlImageExtractor.pdb
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Debug\net9.0\HtmlImageExtractor.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Debug\net9.0\HtmlImageExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Debug\net9.0\HtmlImageExtractor.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Debug\net9.0\HtmlImageExtractor.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Debug\net9.0\HtmlImageExtractor.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Debug\net9.0\HtmlImageExtractor.dll
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Debug\net9.0\refint\HtmlImageExtractor.dll
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Debug\net9.0\HtmlImageExtractor.pdb
+C:\Users\LENOVO\Desktop\MyLib\HTML\HtmlImageExtractor\obj\Debug\net9.0\ref\HtmlImageExtractor.dll
