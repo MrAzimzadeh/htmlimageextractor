@@ -284,7 +284,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Support & Community
 
-- **Issues**: [GitHub Issues](https://github.com/MrAzimzada/htmlimageextractor/issues)
+- **Issues**: [GitHub Issues](https://github.com/MrAzimzadeh/htmlimageextractor/issues)
 - **Email**: [mahammad@azimzada.com](mailto:mahammad@aazimzada.com)
 
 ## 🙏 Acknowledgments
@@ -295,6 +295,6 @@ This project is licensed under the MIT License.
 
 ---
 
-**Made with ❤️ by [Mahammad Azimzada](https://github.com/MrAzimzada)**
+**Made with ❤️ by [Mahammad Azimzada](https://github.com/MrAzimzadeh)**
 
 *Transform your HTML content with embedded images into optimized, performant web experiences!*
